@@ -24,10 +24,11 @@ comments: false
 I’m a post-doc in MRC BSU Cambridge.
 
 ## Selected Projects
-1. Optimal dynamic treatment regime.
-2. Joint modeling of longitudinal and time-to-event outcomes.
-3. Causal inference
-#### Publications
+
+1.  Optimal dynamic treatment regime.
+2.  Joint modeling of longitudinal and time-to-event outcomes.
+3.  Causal inference \#### Publications
+4.  12345
 
 #### R Packages
 :::
