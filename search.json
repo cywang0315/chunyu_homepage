@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "This is the first paper!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Chunyu Wang",
     "section": "",
-    "text": "I’m a post-doc in MRC BSU Cambridge.\n\n\n\n\nOptimal dynamic treatment regime.\nJoint modeling of longitudinal and time-to-event outcomes.\nCausal inference #### Publications"
+    "text": "I’m a post-doc in MRC BSU Cambridge.\n\n\n\n\nOptimal dynamic treatment regime.\nJoint modeling of longitudinal and time-to-event outcomes.\nCausal inference #### Publications\n12345"
   },
   {
     "objectID": "index.html#biography",
@@ -39,7 +18,7 @@
     "href": "index.html#selected-projects",
     "title": "Chunyu Wang",
     "section": "",
-    "text": "Optimal dynamic treatment regime.\nJoint modeling of longitudinal and time-to-event outcomes.\nCausal inference #### Publications"
+    "text": "Optimal dynamic treatment regime.\nJoint modeling of longitudinal and time-to-event outcomes.\nCausal inference #### Publications\n12345"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -49,10 +28,31 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research interests",
     "section": "",
     "text": "My research interests is ….\nMy projects includes …"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "This is the first paper!"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   }
 ]
